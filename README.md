@@ -1,4 +1,4 @@
-# sprint_1
+# sprint_2
 Sprint 2 project from TripleTen bootcamp.
 
 ## Usage
